@@ -6,6 +6,7 @@ Several software projects are developed within BIBS, some of them being hosted o
 
 Project(s):
 * [SpecGlobX](https://github.com/bibs-lab/SpecGlobX)
+* [SpecPeptidOMS](https://github.com/bibs-lab/SpecPeptidOMS)
 
 Projects involving members of the BIBS facility may be found on other locations:
 * [MorphoLibJ](https://github.com/ijpb/MorphoLibJ) a collection of mathematical morphology methods and plugins for the [ImageJ/Fiji](https://imagej.net/) software
